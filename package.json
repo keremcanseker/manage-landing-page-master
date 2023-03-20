@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/keremcanseker/manage-landing-page-master#readme",
   "devDependencies": {
+    "prettier": "^2.8.5",
     "tailwindcss": "^3.2.7"
   }
 }
